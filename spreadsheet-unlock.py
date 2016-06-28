@@ -47,7 +47,6 @@ def main(sheetname):
                     sheetunlock.writestr(item, sheet.read(item.filename))
 
                 if path in item.filename:
-                    print(item.filename)
                     content = sheet.read(item.filename)
                     content = content.decode('utf-8')
                     unlocked = unlock(content)
