@@ -14,3 +14,5 @@ and run the script just with:
 ```
 ./spreadsheet-unlock.py
 ```
+
+The script will create a copy of the original file that 'll be unlocked, with the following name **filename.UNLOCK.xlsx**
