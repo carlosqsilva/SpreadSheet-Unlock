@@ -1,7 +1,7 @@
 # SpreadSheet-Unlock
 Unlock SpreadSheets(*.xlsx) protected by Passwords
 
-##Usage
+## Usage
 Run the **spreadsheet-unlock.py** script inside a folder containing Excel Spreadsheets (.xlsx) with:
 ```
 python spreadsheet-unlock.py
